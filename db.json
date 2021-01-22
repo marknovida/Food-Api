@@ -1,0 +1,66 @@
+{   
+    "food-api":[{
+        "breakfast" :[{
+            "id":"0",
+            "name":"Corned Beef Omelet",
+            "image": "https://panlasangpinoy.com/wp-content/uploads/2019/08/Chicken-Adobo-Fried-Rice-and-Tortang-Corned-Beef-Recipe.jpg",
+            "description":"Chicken Adobo Fried Rice and Tortang Corned Beef",
+            "price":55.00
+        },
+        
+        {
+            "id":"1",
+            "name":"Corned Beef Omelet",
+            "image": "https://panlasangpinoy.com/wp-content/uploads/2019/08/Chicken-Adobo-Fried-Rice-and-Tortang-Corned-Beef-Recipe.jpg",
+            "description":"Chicken Adobo Fried Rice and Tortang Corned Beef",
+            "price":"55.00"
+        },
+        
+        {
+            "id":"2",
+            "name":"Corned Beef Omelet",
+            "image": "https://panlasangpinoy.com/wp-content/uploads/2019/08/Chicken-Adobo-Fried-Rice-and-Tortang-Corned-Beef-Recipe.jpg",
+            "description":"Chicken Adobo Fried Rice and Tortang Corned Beef",
+            "price":55.00
+        },
+        {
+            "id":"3",
+            "name":"Corned Beef Omelet",
+            "image": "https://panlasangpinoy.com/wp-content/uploads/2019/08/Chicken-Adobo-Fried-Rice-and-Tortang-Corned-Beef-Recipe.jpg",
+            "description":"Chicken Adobo Fried Rice and Tortang Corned Beef",
+            "price":"55.00"
+        }
+    ],
+    "lunch" :[{
+        "id":"0",
+        "name":"Corned Beef Omelet",
+        "image": "https://panlasangpinoy.com/wp-content/uploads/2019/08/Chicken-Adobo-Fried-Rice-and-Tortang-Corned-Beef-Recipe.jpg",
+        "description":"Chicken Adobo Fried Rice and Tortang Corned Beef",
+        "price":55.00
+    },
+    
+    {
+        "id":"1",
+        "name":"Corned Beef Omelet",
+        "image": "https://panlasangpinoy.com/wp-content/uploads/2019/08/Chicken-Adobo-Fried-Rice-and-Tortang-Corned-Beef-Recipe.jpg",
+        "description":"Chicken Adobo Fried Rice and Tortang Corned Beef",
+        "price":"55.00"
+    },
+    
+    {
+        "id":"2",
+        "name":"Corned Beef Omelet",
+        "image": "https://panlasangpinoy.com/wp-content/uploads/2019/08/Chicken-Adobo-Fried-Rice-and-Tortang-Corned-Beef-Recipe.jpg",
+        "description":"Chicken Adobo Fried Rice and Tortang Corned Beef",
+        "price":55.00
+    },
+    {
+        "id":"3",
+        "name":"Corned Beef Omelet",
+        "image": "https://panlasangpinoy.com/wp-content/uploads/2019/08/Chicken-Adobo-Fried-Rice-and-Tortang-Corned-Beef-Recipe.jpg",
+        "description":"Chicken Adobo Fried Rice and Tortang Corned Beef",
+        "price":"55.00"
+    }]
+
+}]
+}
